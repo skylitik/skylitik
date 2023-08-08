@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skylitik
-- 👀 I’m interested in C# and JavaScript
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Python and JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projects
 
 
